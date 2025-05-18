@@ -1,30 +1,25 @@
-title: Jim Myhrberg (jimeh)
-description: Software Engineering Mercenary
+title: Chang Jia Jun
+description: Software 
 author:
-  name: Jim Myhrberg
-  nickname: jimeh
-  twitter: jimeh
-hostname: jimeh.me # used to determine if google analytics should be triggered
-url: https://jimeh.me # the base hostname & protocol for your site
+  name: Chang Jia Jun
+  nickname: jiajun
+hostname: jiajunchang2002g.github.io # used to determine if google analytics should be triggered
+url: https://jiajunchang2002g.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 permalink: /:title/
 
 # stuff for jekyll-seo-tag
-social:
-  name: Jim Myhrberg
-  links:
-    - https://github.com/jimeh
-    - https://bsky.app/profile/jimeh.me
-    - https://mastodon.social/@jimeh
-    - https://twitter.com/jimeh
-    - https://jimeh.io/
-    - http://www.linkedin.com/in/jimeh
-    - http://www.last.fm/user/jimeh
-    - https://flickr.com/photos/jimeh/
-    - https://keybase.io/jimeh
-
-twitter:
-  username: jimeh
+# social:
+#   name: Chang Jia Jun
+#   links:
+#     - https://github.com/jiajunchang2002g
+#     - https://bsky.app/profile/jimeh.me
+#     - https://mastodon.social/@jimeh
+#     - https://twitter.com/jimeh
+#     - http://www.linkedin.com/in/jimeh
+#     - http://www.last.fm/user/jimeh
+#     - https://flickr.com/photos/jimeh/
+#     - https://keybase.io/jimeh
 
 # main page content
 email:
@@ -33,37 +28,37 @@ email:
 
 links:
   - name: github
-    url: https://github.com/jimeh
+    url: https://github.com/jiajunchang2002g
     class: fa-brands fa-github
-  - name: bluesky
-    url: https://bsky.app/profile/jimeh.me
-    class: fa-brands fa-bluesky
-  - name: mastodon
-    url: "https://mastodon.social/@jimeh"
-    class: fa-brands fa-mastodon
-    rel: me
-  - name: blog
-    url: https://jimeh.io/
-    class: fa-solid fa-newspaper
-  - name: linkedin
-    url: https://www.linkedin.com/in/jimeh
-    class: fa-brands fa-linkedin
-  - name: last.fm
-    url: https://www.last.fm/user/jimeh
-    class: fa-brands fa-square-lastfm
-  - name: flickr
-    url: https://flickr.com/photos/jimeh
-    class: fa-brands fa-flickr
-  - name: vcard
-    id: vcard
-    type: download
-    url: https://assets.jimeh.me/jim-myhrberg.vcf
-    class: fa-solid fa-address-card
-  - name: cv (pdf)
-    id: resume
-    type: download
-    url: https://jimeh.me/cv
-    class: fa-solid fa-file-pdf
+  # - name: bluesky
+  #   url: https://bsky.app/profile/jimeh.me
+  #   class: fa-brands fa-bluesky
+  # - name: mastodon
+  #   url: "https://mastodon.social/@jimeh"
+  #   class: fa-brands fa-mastodon
+  #   rel: me
+  # - name: blog
+  #   url: https://jimeh.io/
+  #   class: fa-solid fa-newspaper
+  # - name: linkedin
+  #   url: https://www.linkedin.com/in/jimeh
+  #   class: fa-brands fa-linkedin
+  # - name: last.fm
+  #   url: https://www.last.fm/user/jimeh
+  #   class: fa-brands fa-square-lastfm
+  # - name: flickr
+  #   url: https://flickr.com/photos/jimeh
+  #   class: fa-brands fa-flickr
+  # - name: vcard
+  #   id: vcard
+  #   type: download
+  #   url: https://assets.jimeh.me/jim-myhrberg.vcf
+  #   class: fa-solid fa-address-card
+  # - name: cv (pdf)
+  #   id: resume
+  #   type: download
+  #   url: https://jimeh.me/cv
+  #   class: fa-solid fa-file-pdf
 
 # additional stuff
 exclude:
@@ -75,7 +70,7 @@ exclude:
 
 plugins:
   - jekyll-sitemap
-  - jekyll-seo-tag
+  # - jekyll-seo-tag
 
 defaults:
   - scope:

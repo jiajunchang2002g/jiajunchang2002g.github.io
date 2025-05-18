@@ -1,3 +1,3 @@
-# jimeh.me
+# Chang Jia Jun
 
-This is the source-code for my personal website: [jimeh.me](http://jimeh.me/)
+This is the source-code for my personal website:
